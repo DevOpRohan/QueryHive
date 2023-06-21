@@ -1,0 +1,6 @@
+[submodule "QueryHiveApi"]
+	path = QueryHiveApi
+	url = https://github.com/DevOpRohan/QueryHiveApi
+[submodule "QueryHiveUi"]
+	path = QueryHiveUi
+	url = https://github.com/DevOpRohan/QueryHiveUi
